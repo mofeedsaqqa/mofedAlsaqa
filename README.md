@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mofeed Saqqa</h1>
 <h3 align="center">A passionate Software Developer from Palestine</h3>
-<img align="right" alt="coding" width=400 src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width=400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofedalsaqa&label=Profile%20views&color=0e75b6&style=flat" alt="mofedalsaqa" /> </p>
